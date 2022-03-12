@@ -13,3 +13,14 @@
 .p {
     cursor: pointer;
 }
+
+.capafondo{
+    background: url("wallpapersden.com_purple-sunrise-4k-vaporwave_1920x1080.jpg") no-repeat;
+    background-size: cover;
+    height: 100%;
+    position: fixed;
+    z-index:-1;
+    opacity: 35%;
+    width: 100%
+    
+   }
